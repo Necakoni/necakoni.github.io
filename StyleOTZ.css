@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(17, 16, 35);
+    font-family: roboto;
+}
+
+.block {
+background-color: rgb(65, 66, 99);
+color: white;
+border-radius: 2vw;
+padding: 1vh 0 1vh 1.5vw;
+margin: 0.5vh auto 0 auto;
+}
+.star {
+    background-image: url(https://icons8.ru/icon/8ggStxqyboK5/звезда);
+}
+.write {
+    background-color: rgb(17, 16, 35)   ;
+    color: white;
+    border: none;
+    resize: none;
+    border-radius: 1vw;
+    height: 15vh;
+    width: 70vw;
+    margin-top: 0.5vh;
+}
+button {
+    background-color: rgb(17, 16, 35);
+    color: white;
+    border-radius: 1vw;
+    border: none;
+    height: 3.5vh;
+    width: 12vw;
+  }
+  
+  button:active {
+    background-color: white;
+  }
